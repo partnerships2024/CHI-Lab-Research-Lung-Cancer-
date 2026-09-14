@@ -167,7 +167,7 @@ A good research repository should allow another researcher to understand:
 
 ## Motivation
 
-Our pancreatic tumour segmentation research is motivated by recent advances in **medical image segmentation, AI-driven radiology, and reproducible open-source research**. The following resources provide key methodological, scientific, and implementation foundations for this work.
+The following resources provide key methodological, scientific, and implementation foundations for this work.
 
 | **Researcher / Resource** | **Research Papers & Open-Source Implementations** |
 |:---|:---|
