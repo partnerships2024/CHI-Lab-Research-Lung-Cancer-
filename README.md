@@ -171,7 +171,7 @@ The following resources provide key methodological, scientific, and implementati
 
 | **Researcher / Resource** | **Research Papers & Open-Source Implementations** |
 |:---|:---|
-| **Prof. Dr....** | [Website](...) · [PanTS GitHub Repository](....) |
+| **Prof. Dr....** | [Website](...) · [Lung Cancer GitHub Repository](....) |
 | **Relevant Research Papers** | [Paper 1](...) · [Paper 2](...) · [Paper 3](....) · [Paper 4](...) · [Paper 5](...) |
 
 ### Why This Work Matters
