@@ -214,7 +214,7 @@ Recommended use:
 
 # CHI Lab Research Project Google Document
 
-[![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1ZS-7U8J_ZEvcUT_LtzDHRV7wtD4hlo9aQQRnYUAsK20/edit?usp=sharing)
+[![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1UraVib5UWx3QIkHMVXvYQA22rDXCuds0FIECPgnu2ec/edit?usp=sharing)
 
 ---
 
